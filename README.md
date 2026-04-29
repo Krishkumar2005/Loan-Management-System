@@ -4,7 +4,7 @@ A full-stack lending platform built with MERN + Next.js + TypeScript.
 
 ## Tech Stack
 
-- **Frontend**: Next.js 14 (App Router) + TypeScript + Tailwind CSS
+- **Frontend**: Next.js 16 (App Router) + TypeScript + Tailwind CSS
 - **Backend**: Node.js + Express.js + TypeScript
 - **Database**: MongoDB + Mongoose
 - **Auth**: JWT + bcrypt
